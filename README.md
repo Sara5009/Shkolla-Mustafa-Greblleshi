@@ -12,4 +12,4 @@ Shkolla "Mustafa Greblleshi" eshte nje shkolle 9-vjecare.Shkolla eshte nje insti
 
 -Te ndihmoje ne zhvillimin fizik te individeve
 
--Te zhvilloje talentin Krijues etj...
+-Te zhvilloje talentin Krijues etj..
